@@ -6,7 +6,7 @@ This project is the result of my code-along to the Angular GitHub app, [Angular 
 </p>
 
 ## Versions
-* [Angular CLI](https://github.com/angular/angular-cli) v1.6.4
+* [Angular CLI](https://github.com/angular/angular-cli) v1.6.6
 * Angular v5.2.2
 * [Bulma](https://bulma.io) v0.6.2
 
