@@ -1,5 +1,5 @@
 # Angular GitHub Search App
-This project is the result of my code-along to the Angular GitHub app, [Angular 2 GitHub Application (RC6 Update)](https://www.youtube.com/watch?v=RL_2FnIBVgI) by *Brad Traversy*.  This project was originally developed in Angular 2 RC6 and has been updated to **Angular 5** and styled using the [Bulma CSS Framework](https://bulma.io).
+This project is the result of my code-along to the Angular GitHub app, [Angular 2 GitHub Application (RC6 Update)](https://www.youtube.com/watch?v=RL_2FnIBVgI) by *Brad Traversy*.  There have been minor updates to the original code, but the app is mostly the same overall.  This project was originally developed in Angular 2 RC6 and has been updated to **Angular 5** and styled using the [Bulma CSS Framework](https://bulma.io).
 
 <p align="center">
     <img width="500" height="281" src="./src/assets/images/homepage.png"><br>
